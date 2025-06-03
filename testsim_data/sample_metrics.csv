@@ -1,0 +1,2 @@
+timestamp,host,metric_name,value
+2025-01-01T00:00:00Z,host1,cpu.utilization,95

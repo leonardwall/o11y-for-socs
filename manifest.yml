@@ -1,0 +1,25 @@
+id: o11y-for-socs
+version: 1.0.0
+label: O11y for SOCs
+description: |
+  O11y for SOCs is a modular security detection toolkit built for Splunk users
+  who use Splunk Observability Cloud and AppDynamics. It includes dashboards,
+  correlation searches, MITRE- and NIST-mapped detections, machine learning
+  models, test data, and external integration support (e.g., ES, ServiceNow).
+author: Leonard Wall
+category: Security
+tags:
+  - Security
+  - Observability
+  - MITRE ATT&CK
+  - NIST
+  - ML Detection
+  - SOC Toolkit
+is_visible: true
+is_configurable: true
+splunk_compatibility:
+  - 9.0
+  - 9.1
+  - 9.2
+  - 9.3
+license_name: Apache 2.0

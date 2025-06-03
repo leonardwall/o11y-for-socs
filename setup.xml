@@ -1,0 +1,1 @@
+<setup><block title='O11y for SOCs Setup'><input field='include_test_data' label='Include Simulated Data' type='bool'/></block></setup>
